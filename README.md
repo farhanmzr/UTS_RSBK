@@ -12,6 +12,6 @@ INSTALASI
     Secara otomatis halaman akan terbuka pada web browser
     Jika tidak terbuka secara otomatis, pada browser ketik: http://localhost:8080/project2/
 
-URL HOMEPAGE
+URL HOMEPAGE http://ec2-35-175-250-196.compute-1.amazonaws.com/
 
 URL EC2 INSTANCE
